@@ -1,0 +1,51 @@
+*******without seaurity********
+
+step-1 git init
+
+step-2 git remote add origin "link"
+
+step-3 git pull origin main 
+
+step-4 git add -A
+
+step-5 git commit -a -m "write some comment"
+
+step-6 git branch main 
+
+step-7 git checkout main 
+
+step-8 git push origin main
+
+
+
+
+
+
+*******with seaurity********
+
+step-1 git init
+
+step-2 git remote add origin "link"
+
+step-3 git pull origin main 
+
+step-4 git add -A
+
+step-5 git commit -a -m "write some comment"
+
+step-6 git log 
+
+step-7 ls
+
+step-8 ssh-keygen  ?Y
+
+step-9 cat /c/user/uttamcse/.ssh//......
+
+step-10 ssh -T git@github.com
+
+step-11 git branch main 
+
+step-12 git checkout main 
+
+step-13 git push origin main
+
